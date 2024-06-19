@@ -1,7 +1,6 @@
 create database olympics_2021;
 use olympics_2021;
 
-select * from athlets;
 
 create table games(game_id int primary key,game_name varchar(50));
 
